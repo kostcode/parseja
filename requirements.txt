@@ -1,1 +1,1 @@
-fugashi
+fugashi[unidic-lite]
